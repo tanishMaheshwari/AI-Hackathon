@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+}
+.title-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title{
+  font-size: 3rem;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
