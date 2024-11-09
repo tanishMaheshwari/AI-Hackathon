@@ -1,0 +1,14 @@
+.login-button{
+    background-color: salmon;
+    color: white;
+    padding: 0.5rem 0.7rem;
+    margin: 8px 0;
+    border: none;
+    border-radius: 2rem;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+.login-button:hover {
+    opacity: 1;
+}
