@@ -1,0 +1,11 @@
+id,campaign_id,coupon_id,customer_id
+PRED_001,camp_156,coup_234,cust_568
+PRED_002,camp_142,coup_189,cust_237
+PRED_003,camp_156,coup_245,cust_892
+PRED_004,camp_178,coup_167,cust_445
+PRED_005,camp_142,coup_198,cust_673
+PRED_006,camp_156,coup_234,cust_129
+PRED_007,camp_178,coup_167,cust_784
+PRED_008,camp_142,coup_189,cust_562
+PRED_009,camp_156,coup_245,cust_347
+PRED_010,camp_178,coup_198,cust_891
